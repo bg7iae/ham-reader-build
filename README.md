@@ -7,7 +7,7 @@
 > 🔗 [本站首页](https://reader.twowayradio.cn)
 
 
-## 🍒 版本说明
+## 🍒 [版本说明](https://reader.twowayradio.cn/docs/updatenote)
 
 📅 2024-11-01  Ver 1.0.0
 - ✅ 上线A类题库
@@ -22,8 +22,6 @@
 - ✅ 优化智能出题算法
 - ✅ 修复和完善一些功能
 
-#### 🍎 欢迎加群
+#### 🍎 [欢迎加群](https://reader.twowayradio.cn/docs/updatenote)
 
 🏷️ 今天<mark>20241102</mark>新建一个微信群欢迎在本群讨论和交流与本应用、业余无线电考试有关内容。
-
-![中国业余无线电台操作技术能力验证考试题库阅读练习器微信群|480x](https://reader.twowayradio.cn/images/53899bcea57038f069fb50b5155a959.jpg "中国业余无线电台操作技术能力验证考试题库阅读练习器微信群")
